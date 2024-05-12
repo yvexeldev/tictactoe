@@ -1,2 +1,2 @@
 # tictactoe
-TicTacToe Console Game on JS
+TicTacToe console game written in JavaScript
